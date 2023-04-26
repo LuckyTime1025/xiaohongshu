@@ -45,7 +45,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-> 项目启动后会先检测 cookies.json 中的 Cookie 是否有效，如果没有该文件或 Cookie 失效，则使用手机号接受验证码登陆，否则使用 Cookie 自动登陆
+> 项目启动后会先检测 ```cookies.json``` 中的 ```Cookie``` 是否有效，如果没有该文件或 ```Cookie``` 失效，则使用手机号接收验证码登陆，否则使用 ```Cookie``` 自动登陆
 
 ## 注意事项
 
